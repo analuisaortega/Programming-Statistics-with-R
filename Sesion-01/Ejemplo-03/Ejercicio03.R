@@ -8,6 +8,8 @@ iris
 
 mean(iris$Sepal.Length)
 
+iris3
+
 # Llamamos funciones ?tiles sobre columnas de iris
 
 min(iris$Sepal.Length)
