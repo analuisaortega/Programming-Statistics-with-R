@@ -1,12 +1,14 @@
 ######################################
 ########## Fundamentos de R ##########
-##########    Sesión 01     ##########
+##########    Sesi?n 01     ##########
 ##########  Ejercicio 03    ##########
 ######################################
 
 iris
 
-# Llamamos funciones útiles sobre columnas de iris
+mean(iris$Sepal.Length)
+
+# Llamamos funciones ?tiles sobre columnas de iris
 
 min(iris$Sepal.Length)
 
@@ -35,17 +37,17 @@ median(iris$Sepal.Length)
 # Podemos comparar los valores de las columnas de un dataframe
 iris$Sepal.Width > 2
 
-# Podemos usar la comparación para filtrar un dataframe
+# Podemos usar la comparaci?n para filtrar un dataframe
 iris[iris$Sepal.Width > 2, ]
 
-# Podemos utilizar alguna función para elegir el valor sobre el que se va a comparar
+# Podemos utilizar alguna funci?n para elegir el valor sobre el que se va a comparar
 iris[iris$Sepal.Width > mean(iris$Sepal.Width), ]
 
-# Podemos comparar y elegir cuáles columnas mostrar
+# Podemos comparar y elegir cu?les columnas mostrar
 iris[iris$Sepal.Width > 2,1:3]
 
 # Para ver la estructura de un dataframe
 str(iris)
 
-# Para ver los estadísticos básicos de las columnas de un dataframe
+# Para ver los estad?sticos b?sicos de las columnas de un dataframe
 summary(iris)
