@@ -1,5 +1,5 @@
  
-## Módulo: Programación y Estadística con R
+## Módulo: Introducción a la Programación con R
 
 ### OBJETIVO
 
