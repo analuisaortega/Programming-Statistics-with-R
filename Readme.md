@@ -3,7 +3,7 @@
 
 ### OBJETIVO
 
- - El conocimiento que adquirirás en este módulo tendrá como dos pilares el lenguaje de programación R y los pasos para realizar un Análisis Exploratorio de Datos. Utilizando estos dos conocimientos, podrás desarrollar un análisis de alto nivel sobre cualquier conjunto de datos que se te presente.
+El conocimiento que adquirirás en este módulo tendrá como dos pilares el lenguaje de programación R y los pasos para realizar un Análisis Exploratorio de Datos. Utilizando estos dos conocimientos, podrás desarrollar un análisis de alto nivel sobre cualquier conjunto de datos que se te presente.
 
  ### ORGANIZACIÓN DE MÓDULO 
  
